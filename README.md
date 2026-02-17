@@ -1,2 +1,2 @@
-# at-sdk
-API + SDK context protocol for external applications
+# AT SDK & API
+This is a work in progress, SDK & API are coming soon!
