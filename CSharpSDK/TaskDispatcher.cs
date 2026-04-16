@@ -2,7 +2,7 @@
 
 using System.Collections.Concurrent;
 
-namespace CSharpSDK.Utilities;
+namespace ATCSharpSDK.Utilities;
 
 /// <summary>
 /// This is here to replicate UniTask's SwitchToMainThread
