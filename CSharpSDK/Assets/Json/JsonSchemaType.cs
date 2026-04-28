@@ -1,4 +1,4 @@
-namespace NeuroSDKCsharp.Json;
+namespace ATCSharpSDK.Json;
 
     public enum JsonSchemaType
     {
